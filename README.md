@@ -1,5 +1,5 @@
 # PoliticalWorldCup
-Using social, political, and economic theory to predict World Cup performance. If you would like to learn more, please read my article published on Medium: 
+Using social, political, and economic theory to predict World Cup performance. If you would like to learn more, please read my article published on Medium: https://medium.com/@leobdata/predicting-your-teams-world-cup-performance-with-political-and-economic-theory-f134962ecbee 
 ## Repo Contents
 In this repo, you will find the following: 
 1. Main.ipynb: this is the jupyter notebook used to perform the match simulations, feature importance analysis, and generate all the visualizations seen in the Medium article
