@@ -1,6 +1,8 @@
 # PoliticalWorldCup
 Using social, political, and economic theory to predict World Cup performance. If you would like to learn more, please read my two articles published on Medium. 
+
 First article: https://medium.com/@leobdata/predicting-your-teams-world-cup-performance-with-political-and-economic-theory-f134962ecbee 
+
 Second article: https://medium.com/@leobdata/i-used-ml-to-bet-on-the-2022-world-cup-here-is-how-much-i-would-have-made-553e91451ac9
 ## Repo Contents
 In this repo, you will find the following: 
